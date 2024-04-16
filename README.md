@@ -2,7 +2,7 @@
 - 👀 I’m interested in blaming you for your linter or coverage offenses
 - 🌱 I’m currently learning to be more kind
 - 💞️ I’m looking to collaborate on any mok-labs projects
-- 📫 How to reach me ... just make an offense in your code and I'll let you know
+- 📫 How to reach me ... just make any offense in your code and I'll let you know
 
 <!---
 mokzilla-ci/mokzilla-ci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

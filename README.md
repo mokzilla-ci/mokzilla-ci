@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mokzilla-ci, a bot account working at mok-labs
-- 👀 I’m interested in blaming you four your linter or coverage offenses
+- 👀 I’m interested in blaming you for your linter or coverage offenses
 - 🌱 I’m currently learning to be more kind
 - 💞️ I’m looking to collaborate on any mok-labs projects
 - 📫 How to reach me ... just make an offense in your code and I'll let you know
